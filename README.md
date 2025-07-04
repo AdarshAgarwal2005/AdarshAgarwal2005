@@ -1,16 +1,23 @@
-## Hi there 👋
+Hi 👋, I'm Adarsh Agarwal
+BTech CSE Student | Aspiring SDE | Passionate about Machine Learning & DSA
 
-<!--
-**AdarshAgarwal2005/AdarshAgarwal2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 About Me
+- 3rd year BTech (CSE) student at Amity University
+- I enjoy solving DSA problems and building ML projects
+- Solved 300+ LeetCode DSA problems
+- Passionate about problem solving and building real-world ML apps
+- Currently learning Flask, Data Science & Competitive Programming
 
-Here are some ideas to get you started:
+🔧 Tech Stack
+- Languages: C++, Python, HTML, CSS, JavaScript
+- ML Tools: Scikit-learn, NumPy, Pandas, Matplotlib
+- Frameworks: Streamlit (learning), Flask (learning)
+- Tools: Git, GitHub, VS Code, Jupyter Notebook
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📌 Projects
+- Spam Email Classifier: https://github.com/AdarshAgarwal2005/spam-email-classifier
+- Fashion Recommender (Fashion MNIST): https://github.com/AdarshAgarwal2005/FashionRecommender
+
+📫 Connect with Me
+- Email: adarshagrawal2233@gmail.com
+- LinkedIn: www.linkedin.com/in/adarsh-agrawal-435313342
