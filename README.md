@@ -20,4 +20,4 @@ I love building real-world ML projects and exploring the depths of software engi
 
 📫 Connect with Me
 - Email: adarshagrawal2233@gmail.com
-- LinkedIn: www.linkedin.com/in/adarsh-agrawal-435313342
+- LinkedIn: www.linkedin.com/in/adarsh-agarwal-btech-cse
