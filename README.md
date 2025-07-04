@@ -1,6 +1,5 @@
-Hi 👋, I'm Adarsh Agarwal
-
-BTech CSE Student | Aspiring SDE | Passionate about Machine Learning & DSA
+Hi 👋, I'm Adarsh Agarwal  
+I love building real-world ML projects and exploring the depths of software engineering.
 
 💻 About Me
 - 3rd year BTech (CSE) student at Amity University
