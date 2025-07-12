@@ -4,7 +4,6 @@ I love building real-world ML projects and exploring the depths of software engi
 💻 About Me
 - 3rd year BTech (CSE) student at Amity University
 - I enjoy solving DSA problems and building ML projects
-- Solved 300+ LeetCode DSA problems
 - Passionate about problem solving and building real-world ML apps
 - Currently learning Flask, Data Science & Competitive Programming
 
