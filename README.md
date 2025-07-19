@@ -14,7 +14,7 @@ I love building real-world ML projects and exploring the depths of software engi
 - Tools: Git, GitHub, VS Code, Jupyter Notebook
 
 📌 Projects
-- akeNewsDetectorSystem: https://github.com/AdarshAgarwal2005/FakeNewsDetectorSystem
+- FakeNewsDetectorSystem: https://github.com/AdarshAgarwal2005/FakeNewsDetectorSystem
 - Fashion Recommender (Fashion MNIST): https://github.com/AdarshAgarwal2005/FashionRecommender
 - Spam Email Classifier: https://github.com/AdarshAgarwal2005/spam-email-classifier
 
