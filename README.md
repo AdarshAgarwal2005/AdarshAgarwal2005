@@ -14,8 +14,9 @@ I love building real-world ML projects and exploring the depths of software engi
 - Tools: Git, GitHub, VS Code, Jupyter Notebook
 
 📌 Projects
-- Spam Email Classifier: https://github.com/AdarshAgarwal2005/spam-email-classifier
+- akeNewsDetectorSystem: https://github.com/AdarshAgarwal2005/FakeNewsDetectorSystem
 - Fashion Recommender (Fashion MNIST): https://github.com/AdarshAgarwal2005/FashionRecommender
+- Spam Email Classifier: https://github.com/AdarshAgarwal2005/spam-email-classifier
 
 📫 Connect with Me
 - Email: adarshagrawal2233@gmail.com
