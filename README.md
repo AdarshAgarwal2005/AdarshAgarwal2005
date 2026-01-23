@@ -85,10 +85,6 @@ Real-world AI/ML project with practical use case
 Focused on automation and intelligent decision making
 
 
-### 👕 Fashion Recommender (Fashion MNIST)
-👉 https://github.com/AdarshAgarwal2005/FashionRecommender
-
-
 ### 📧 Spam Email Classifier
 👉 https://github.com/AdarshAgarwal2005/spam-email-classifier
 
