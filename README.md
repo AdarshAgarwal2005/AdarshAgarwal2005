@@ -85,10 +85,6 @@ Real-world AI/ML project with practical use case
 Focused on automation and intelligent decision making
 
 
-### 📧 Spam Email Classifier
-👉 https://github.com/AdarshAgarwal2005/spam-email-classifier
-
-
 ## 📫 Connect with Me
 
 📧 Email: adarshagrawal2233@gmail.com
