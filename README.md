@@ -75,6 +75,21 @@ JWT based authentication & role-based access
 Admin panel for product management
 
 
+
+### 🧠 AI-Based Neurological Degeneration Stage Detection
+
+https://github.com/AdarshAgarwal2005/AI-Neurological-Degeneration-Stage-Detection
+
+Deep learning system that analyzes brain MRI images using Convolutional Neural Networks (CNN)
+
+Classifies neurological degeneration stages: NonDemented, VeryMildDemented, MildDemented, and ModerateDemented
+
+Medical AI project focused on automated detection of brain degeneration patterns
+
+Demonstrates practical application of AI in healthcare and medical image analysis
+
+
+
 ### 🤖 SENTINEL-AI – Intelligent AI Monitoring System
 https://github.com/AdarshAgarwal2005/Sentinel-ai
 
