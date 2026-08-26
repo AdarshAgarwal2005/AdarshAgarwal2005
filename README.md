@@ -117,4 +117,3 @@ Focused on automation and intelligent decision making
 
 📧 Email: adarshagrawal2233@gmail.com
 
-💼 LinkedIn: https://www.linkedin.com/in/adarsh-agarwal-btech-cse
