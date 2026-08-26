@@ -91,7 +91,7 @@ Admin panel for product management
 
 ### 🧠 AI-Based Neurological Degeneration Stage Detection
 
-https://github.com/AdarshAgarwal2005/AI-Neurological-Degeneration-Stage-Detection
+[https://github.com/AdarshAgarwal2005/AI-Neurological-Degeneration-Stage-Detection](https://github.com/AdarshAgarwal2005/AI-Based-Neurological-Degeneration-Stage-Detection)
 
 Deep learning system that analyzes brain MRI images using Convolutional Neural Networks (CNN)
 
