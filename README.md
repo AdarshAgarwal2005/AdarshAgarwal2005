@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Adarsh Agarwal
 
-🎓 3rd Year B.Tech (CSE) Student at Amity University
+🎓 Final Year B.Tech (CSE) Student at Amity University
 💻 Aspiring Software Engineer & AI/ML Enthusiast
 
 I enjoy building real-world projects, solving DSA problems, and exploring the depth of backend systems, machine learning, and full-stack development.
@@ -8,7 +8,7 @@ Currently focused on strengthening my skills in problem solving, backend develop
 
 ## 💻 About Me
 
-🎓 3rd year B.Tech (Computer Science & Engineering) student at Amity University
+🎓 Final year B.Tech (Computer Science & Engineering) student at Amity University
 
 🧠 Strong interest in Data Structures & Algorithms and software engineering
 
@@ -26,6 +26,8 @@ C++
 Python
 
 JavaScript
+
+Flutter
 
 HTML & CSS
 
@@ -62,6 +64,17 @@ Jupyter Notebook
 ## 📌 Projects
 
 Here are some of my featured projects:
+
+### 💳 CredScore – Fintech Credit Health & Rewards App (Flutter)
+
+https://github.com/AdarshAgarwal2005/CredScore
+
+End-to-end fintech UI app inspired by premium credit-card platforms (CRED-style UX)
+Riverpod-based state management with clean feature-first architecture (data/domain/presentation layers)
+Biometric-secured bill payment flow with animated success/failure states
+Spend analytics dashboard with category-wise charts using fl_chart
+Gamified rewards system with score-based unlock logic and reveal animations
+Local persistence via Hive, unit + widget test coverage, CI-ready structure
 
 ### 🛒 BindaasWear – Full Stack E-Commerce Website
 https://github.com/AdarshAgarwal2005/BindaasWear
