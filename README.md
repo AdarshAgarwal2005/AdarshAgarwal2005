@@ -1,119 +1,128 @@
-## Hi 👋, I'm Adarsh Agarwal
+<div align="center">
 
-🎓 Final Year B.Tech (CSE) Student at Amity University
-💻 Aspiring Software Engineer & AI/ML Enthusiast
+# Hi 👋, I'm Adarsh Agarwal
 
-I enjoy building real-world projects, solving DSA problems, and exploring the depth of backend systems, machine learning, and full-stack development.
-Currently focused on strengthening my skills in problem solving, backend development, and machine learning.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=640&lines=Software+Engineer+%7C+AI%2FML+Engineer;Backend+%26+Full-Stack+Developer;450%2B+LeetCode+Problems+%7C+Top+1.1%25)](https://git.io/typing-svg)
 
-## 💻 About Me
+**Final-year B.Tech CSE (AI & ML) @ Amity University Lucknow · Graduating June 2027**
+Ex-intern at **Tata Consultancy Services** and **W3villa Technologies**
 
-🎓 Final year B.Tech (Computer Science & Engineering) student at Amity University
+[![Open to Work](https://img.shields.io/badge/Open%20to-Full--Time%20SWE%20Roles-success?style=for-the-badge)](mailto:adarshagrawal2233@gmail.com)
 
-🧠 Strong interest in Data Structures & Algorithms and software engineering
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adarshagrawal2233@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/YOUR-LEETCODE-USERNAME)
 
-🤖 Passionate about building real-world Web and Machine Learning applications
+</div>
 
-🚀 Actively working on projects to prepare for software developer roles
+---
 
-📚 Currently learning Data Science and Competitive Programming
+## 👨‍💻 About Me
 
-## 🔧 Tech Stack
-🖥️ Programming Languages
+I build **production-minded backend systems** and **applied ML products**, from secure REST APIs and payment flows to deep learning models trained on 25,000+ medical scans. I like problems where clean engineering and real-world impact meet.
 
-C++
+- 🏢 **Interned at TCS** (Product Developer) and **W3villa** (Software Developer), shipping real features in team environments
+- 🧮 **450+ DSA problems** solved on LeetCode (top 1.1%), strong in C++ and Python
+- 🧠 Completed **Andrew Ng's Machine Learning Specialization**
+- 🎯 Currently seeking **full-time Software Engineer / AI-ML roles** for 2027
 
-Python
+---
 
-JavaScript
+## 💼 Experience
 
-Flutter
+| Role | Company | Duration |
+|------|---------|----------|
+| **Product Developer Intern** | Tata Consultancy Services (TCS) | Jun – Aug 2026 |
+| **Software Developer Intern** | W3villa Technologies | May – Jun 2026 |
 
-HTML & CSS
+**Highlights**
+- 🔐 Built **AccessHub** at W3villa: an RBAC + JWT authentication system with **10+ REST endpoints** (Node.js, MongoDB)
+- 📊 Built an **XGBoost course-difficulty classification pipeline** at TCS iON across **25,000+ learner records and 500+ courses**
 
-🤖 Machine Learning & Data Science
+---
 
-Scikit-learn
+## 🛠️ Tech Stack
 
-NumPy
+<div align="center">
 
-Pandas
+**Languages**
 
-Matplotlib
+![Python](https://skillicons.dev/icons?i=py,cpp,js,dart,html,css&theme=dark)
 
-⚙️ Backend & Web
+**Backend & Databases**
 
-Node.js
+![Backend](https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,mysql&theme=dark)
 
-Express.js
+**ML / Data Science**
 
-EJS
+![ML](https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,numpy,pandas,opencv&theme=dark)
 
-Tailwind CSS
+**Frontend & Mobile**
 
-MongoDB
+![Frontend](https://skillicons.dev/icons?i=flutter,tailwind,ejs&theme=dark)
 
-🛠️ Tools & Platforms
+**Cloud & Tools**
 
-Git & GitHub
+![Tools](https://skillicons.dev/icons?i=aws,docker,git,github,postman,vscode,jupyter&theme=dark)
 
-VS Code
+</div>
 
-Jupyter Notebook
+---
 
-## 📌 Projects
+## 🚀 Featured Projects
 
-Here are some of my featured projects:
+### 🤖 [SENTINEL-AI](https://github.com/AdarshAgarwal2005/Sentinel-ai): Multi-Task NLP Inference API
+A **FastAPI** service that runs fake-news detection, sentiment analysis, and toxicity classification behind one API, with a latency vs. accuracy trade-off study (DistilBERT vs. TF-IDF).
+- ✅ **88.89% average accuracy** across tasks
+- ⚡ Deployed the lightweight TF-IDF model for low-latency inference
 
-### 💳 CredScore – Fintech Credit Health & Rewards App (Flutter)
+`Python` `FastAPI` `Scikit-learn` `DistilBERT` `NLP`
 
-https://github.com/AdarshAgarwal2005/CredScore
+---
 
-End-to-end fintech UI app inspired by premium credit-card platforms (CRED-style UX)
-Riverpod-based state management with clean feature-first architecture (data/domain/presentation layers)
-Biometric-secured bill payment flow with animated success/failure states
-Spend analytics dashboard with category-wise charts using fl_chart
-Gamified rewards system with score-based unlock logic and reveal animations
-Local persistence via Hive, unit + widget test coverage, CI-ready structure
+### 🧠 [AI-Based Neurological Degeneration Stage Detection](https://github.com/AdarshAgarwal2005/AI-Based-Neurological-Degeneration-Stage-Detection)
+A deep learning system that classifies **Alzheimer's progression stages** from brain MRI scans: *NonDemented, VeryMild, Mild, Moderate*.
+- ✅ **95.53% accuracy** on **25,000+ MRI scans**
+- 🏥 Applied CNNs to automated medical image analysis
 
-### 🛒 BindaasWear – Full Stack E-Commerce Website
-https://github.com/AdarshAgarwal2005/BindaasWear
+`Python` `TensorFlow / PyTorch` `CNN` `Computer Vision`
 
-Complete end-to-end shopping workflow
+---
 
-Razorpay payment gateway integration
+### 🛒 [BindaasWear](https://github.com/AdarshAgarwal2005/BindaasWear): Full-Stack E-Commerce Platform
+A complete shopping workflow, from browsing to payment, with a secure admin backend.
+- 💳 **Razorpay** payment gateway integration
+- 🔐 **JWT authentication** with role-based access control
+- 🛠️ Admin panel for product management
 
-JWT based authentication & role-based access
+`Node.js` `Express` `MongoDB` `EJS` `Tailwind CSS`
 
-Admin panel for product management
+---
 
+### 💳 [CredScore](https://github.com/AdarshAgarwal2005/CredScore): Fintech Credit Health & Rewards App
+A CRED-style mobile app built in **Flutter** with a clean, feature-first architecture (data / domain / presentation).
+- 🧩 **Riverpod** state management, local persistence with **Hive**
+- 🔒 Biometric-secured bill payment flow with animated success/failure states
+- 📈 Spend analytics dashboard with category-wise charts (`fl_chart`)
+- 🎁 Gamified rewards with score-based unlocks, plus unit and widget tests
 
+`Flutter` `Dart` `Riverpod` `Hive`
 
-### 🧠 AI-Based Neurological Degeneration Stage Detection
+---
 
-[https://github.com/AdarshAgarwal2005/AI-Neurological-Degeneration-Stage-Detection](https://github.com/AdarshAgarwal2005/AI-Based-Neurological-Degeneration-Stage-Detection)
+## 🎓 Education
 
-Deep learning system that analyzes brain MRI images using Convolutional Neural Networks (CNN)
+**B.Tech in Computer Science Engineering (AI & ML)**, Amity University Lucknow · 2023 – 2027
 
-Classifies neurological degeneration stages: NonDemented, VeryMildDemented, MildDemented, and ModerateDemented
+---
 
-Medical AI project focused on automated detection of brain degeneration patterns
+<div align="center">
 
-Demonstrates practical application of AI in healthcare and medical image analysis
+### 📫 Let's Connect
 
+I'm actively looking for **full-time Software Engineer / AI-ML opportunities**.
+Reach me at **[adarshagrawal2233@gmail.com](mailto:adarshagrawal2233@gmail.com)**
 
+![Profile views](https://komarev.com/ghpvc/?username=AdarshAgarwal2005&color=2F81F7&style=flat-square)
 
-### 🤖 SENTINEL-AI – Intelligent AI Monitoring System
-https://github.com/AdarshAgarwal2005/Sentinel-ai
-
-Machine learning based intelligent system
-
-Real-world AI/ML project with practical use case
-
-Focused on automation and intelligent decision making
-
-
-## 📫 Connect with Me
-
-📧 Email: adarshagrawal2233@gmail.com
-
+</div>
