@@ -7,7 +7,7 @@
 **Final-year B.Tech CSE (AI & ML) @ Amity University Lucknow · Graduating June 2027**
 Ex-intern at **Tata Consultancy Services** and **W3villa Technologies**
 
-[![Open to Work](https://img.shields.io/badge/Open%20to-Full--Time%20SWE%20Roles-success?style=for-the-badge)](mailto:adarshagrawal2233@gmail.com)
+[![Open to Work](https://img.shields.io/badge/Open%20to-Software%20Developer%20Roles-success?style=for-the-badge)](mailto:adarshagrawal2233@gmail.com)
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adarshagrawal2233@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME)
@@ -77,7 +77,7 @@ I build **production-minded backend systems** and **applied ML products**, from 
 ![Next.js](https://skillicons.dev/icons?i=nextjs&theme=dark)
 ![Flutter](https://skillicons.dev/icons?i=flutter&theme=dark)
 ![Tailwind CSS](https://skillicons.dev/icons?i=tailwind&theme=dark)
-![EJS](https://skillicons.dev/icons?i=ejs&theme=dark)
+![EJS](https://img.shields.io/badge/EJS-B4CA65?style=for-the-badge&logo=ejs&logoColor=black)
 
 ### Cloud & Tools
 
