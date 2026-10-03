@@ -45,25 +45,49 @@ I build **production-minded backend systems** and **applied ML products**, from 
 
 <div align="center">
 
-**Languages**
+### Languages
 
-![Python](https://skillicons.dev/icons?i=py,cpp,js,dart,html,css&theme=dark)
+![Python](https://skillicons.dev/icons?i=python&theme=dark)
+![C++](https://skillicons.dev/icons?i=cpp&theme=dark)
+![JavaScript](https://skillicons.dev/icons?i=js&theme=dark)
+![Dart](https://skillicons.dev/icons?i=dart&theme=dark)
+![HTML](https://skillicons.dev/icons?i=html&theme=dark)
+![CSS](https://skillicons.dev/icons?i=css&theme=dark)
 
-**Backend & Databases**
+### Backend & Databases
 
-![Backend](https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,mysql&theme=dark)
+![Node.js](https://skillicons.dev/icons?i=nodejs&theme=dark)
+![Express.js](https://skillicons.dev/icons?i=express&theme=dark)
+![FastAPI](https://skillicons.dev/icons?i=fastapi&theme=dark)
+![MongoDB](https://skillicons.dev/icons?i=mongodb&theme=dark)
+![MySQL](https://skillicons.dev/icons?i=mysql&theme=dark)
 
-**ML / Data Science**
+### ML / Data Science
 
-![ML](https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,numpy,pandas,opencv&theme=dark)
+![PyTorch](https://skillicons.dev/icons?i=pytorch&theme=dark)
+![TensorFlow](https://skillicons.dev/icons?i=tensorflow&theme=dark)
+![Scikit-learn](https://skillicons.dev/icons?i=sklearn&theme=dark)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
-**Frontend & Mobile**
+### Frontend & Mobile
 
-![Frontend](https://skillicons.dev/icons?i=flutter,tailwind,ejs&theme=dark)
+![React](https://skillicons.dev/icons?i=react&theme=dark)
+![Next.js](https://skillicons.dev/icons?i=nextjs&theme=dark)
+![Flutter](https://skillicons.dev/icons?i=flutter&theme=dark)
+![Tailwind CSS](https://skillicons.dev/icons?i=tailwind&theme=dark)
+![EJS](https://skillicons.dev/icons?i=ejs&theme=dark)
 
-**Cloud & Tools**
+### Cloud & Tools
 
-![Tools](https://skillicons.dev/icons?i=aws,docker,git,github,postman,vscode,jupyter&theme=dark)
+![AWS](https://skillicons.dev/icons?i=aws&theme=dark)
+![Docker](https://skillicons.dev/icons?i=docker&theme=dark)
+![Git](https://skillicons.dev/icons?i=git&theme=dark)
+![GitHub](https://skillicons.dev/icons?i=github&theme=dark)
+![Postman](https://skillicons.dev/icons?i=postman&theme=dark)
+![VS Code](https://skillicons.dev/icons?i=vscode&theme=dark)
+![Jupyter](https://skillicons.dev/icons?i=jupyter&theme=dark)
 
 </div>
 
@@ -89,13 +113,14 @@ A deep learning system that classifies **Alzheimer's progression stages** from b
 
 ---
 
-### 🛒 [BindaasWear](https://github.com/AdarshAgarwal2005/BindaasWear): Full-Stack E-Commerce Platform
-A complete shopping workflow, from browsing to payment, with a secure admin backend.
-- 💳 **Razorpay** payment gateway integration
-- 🔐 **JWT authentication** with role-based access control
-- 🛠️ Admin panel for product management
+### 🛍️ [ShopSphere](https://github.com/AdarshAgarwal2005/ShopSphere): E-Commerce Platform
+A modern e-commerce platform built with Next.js and Payload CMS, supporting product browsing, authentication, cart management, and checkout.
+- 💳 **Razorpay** test checkout integration
+- 🔐 **Authentication** with user profiles and protected workflows
+- 🛠️ **Payload CMS** backend for managing products, categories, users, media, and orders
+- 🤖 **Gemini API** recommendation chatbot using product data
 
-`Node.js` `Express` `MongoDB` `EJS` `Tailwind CSS`
+`Next.js` `React.js` `Payload CMS` `MongoDB` `Razorpay` `Gemini API`
 
 ---
 
